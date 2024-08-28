@@ -1,0 +1,246 @@
+.left-container{
+    width:300px;
+    height:100vh;
+    position: fixed;
+    background-color: peru;
+}
+.left-container input{
+    width:250px;
+    height:32px;
+    font-size:15px;
+    border: none;
+    color:bisque;
+    border-radius: 10px;
+    margin-top:30px;
+    margin-left:20px;
+}
+.menu{
+    margin-top:50px;
+    color:#fff;
+
+}
+.menu h4{
+    font-size: 23px;
+    margin-left:13px;
+}
+.menu ul{
+    margin-top:22px;
+}
+.menu ul li{
+    font-size: 18px;
+    list-style-type: none;
+    cursor: pointer;
+    margin:20px;
+
+   
+
+}
+.menu ul li i{
+    margin:7px;
+    
+}
+.menu ul li:hover{
+    border-left: 4px solid #fff;
+    border-radius: 3px;
+    box-shadow: rgba(181, 185, 189, 0.4) 0px 0px 0px 2px, rgba(233, 234, 236, 0.65) 0px 4px 6px -1px, rgba(245, 243, 243, 0.08) 0px 1px 0px inset;
+}
+.mainbox{
+    margin-left:400px;
+}
+.mainbox{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+    
+}
+.man img{
+    width:450px;
+    height:450px;
+    border-radius: 10px;
+    
+    
+}
+.man h5{
+    color:black;
+    font-size: 28px;
+}
+.man h6{
+    color:peru;
+    font-size: 18px;
+    padding:3px;
+
+}
+.button1{
+    width:120px;
+    height:32px;
+    background-color:#fff;
+    color:black;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:5px;
+    cursor: pointer;
+}
+.button2{
+    width:120px;
+    height:32px;
+    background-color:#fff;
+    color:black;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:5px;
+    margin-left:8px;
+    cursor: pointer;
+}
+.mainbox2{
+    margin-top:100px;
+    margin-left:400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+}
+.women img{
+    width:450px;
+    height:450px;
+    border-radius: 10px;
+}
+.women h5{
+    color:black;
+    font-size: 28px;
+}
+.women h6{
+    color:peru;
+    font-size: 18px;
+    padding:3px;
+
+}
+#bestfriends{
+    margin-top:100px;
+}
+#bestfriends p{
+    margin-left: 400px;
+    font-size: 20px;
+    color:black
+}
+.best img{
+    margin-top:50px;
+    border-radius: 10px;;
+    margin-left:400px;
+}
+#bestfriends h1{
+    margin-left:400px;
+    font-size: 70px;
+    margin-bottom:50px;
+}
+.users{
+
+    border:1px solid peru;
+    margin-right:200px;
+    background-image: url("https://images.pexels.com/photos/710743/pexels-photo-710743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top:50px;
+    height:400px;
+    position: relative;
+    border-radius:10px;
+
+}
+.users1{
+
+    border:1px solid rgb(246, 128, 9);
+    margin-right:200px;
+    background-image: url("https://images.pexels.com/photos/5530170/pexels-photo-5530170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top:50px;
+    height:400px;
+    filter:grayscale(30%);
+    border-radius:10px;
+   
+   
+
+}
+.users2{
+
+    border:1px solid peru;
+    margin-right:200px;
+    background-image: url("https://images.pexels.com/photos/13356556/pexels-photo-13356556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top:50px;
+    height:400px;
+    filter: grayscale(30%);
+    border-radius:10px;
+
+}
+.best1{
+    margin-left:400px;
+}
+.best1 h2{
+    font-size: 60px;
+    margin-top:40px;
+}
+.users p{
+    color:#fff;
+    font-size: 20px;
+    padding:80px;
+}
+.users1 p{
+    color:#fff;
+    font-size: 20px;
+    padding:80px;
+}
+.users2 p{
+    color:#fff;
+    font-size: 20px;
+    padding:80px;
+}
+.users h1{
+    color:black;
+    padding:5px;
+    font-size: 50px;
+}
+.users1 h1{
+    color:black;
+    padding:5px;
+    font-size: 50px;
+}
+.users2 h1{
+    color:black;
+    padding:5px;
+    font-size: 50px;
+}
+.users i{
+    font-size: 70px;
+    position:absolute;
+    left:83%;
+    top:80%;
+}
+#first{
+    position:absolute;
+    right:99%;
+    bottom:90%
+}
+.users1 i{
+    font-size: 70px;
+    position:absolute;
+    left:83%;
+    top:80%;
+    color:rgb(254, 129, 5);
+}
+.users2 i{
+    font-size: 70px;
+    position:absolute;
+    left:83%;
+    top:80%;
+    color:rgb(247, 126, 5);
+}
+.button2:hover {
+    transform: scale(1.07);
+
+}
