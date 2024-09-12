@@ -1,1 +1,3 @@
-hello there
+Blissful Bonds
+Blissful Bonds is a website designed to celebrate the beauty of friendship and realtionships. It offers a platform where users can share heartwarming stories, photos, and memories with their best friends. The website features a sleek and modern UI built using React, ensuring a seamless and engaging user experience. Users can create personalized friendship profiles, explore friendship quotes, and contribute to a growing community of BFFs. Blissful Bonds aims to strengthen relationships and foster connections through its fun and interactive interface. Built with responsiveness in mind, it is accessible on all devices.
+
